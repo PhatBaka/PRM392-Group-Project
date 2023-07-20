@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26C6DA</color>
+    <color name="colorPrimaryDark">#26C6DA</color>
+    <color name="colorAccent">#EF5350</color>
+    <color name="colorBackground">#fff</color>
+    <color name="colorIcon">#cccccc</color>
+    <color name="colorTextInputBackground">#F7F7F7</color>
+    <color name="actionbarOpacity">#00000000</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="md_black_1000">#000000</color>
+    <color name="grey">#7F7F7F</color>
+    <color name="transparent">#80D1D1D1</color>
+    <color name="momo">#B0006E</color>
+
+    <color name="primary_chat">#00B52D</color>
+    <color name="primary_dark_chat">#142232 </color>
+    <color name="primary_text_chat">#212121 </color>
+    <color name="second_text_chat">#757575 </color>
+    <color name="input_background_chat">#ECECEC</color>
+    <color name="icon_background_chat">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="received_message_background_chat">#024011</color>
+</resources>
